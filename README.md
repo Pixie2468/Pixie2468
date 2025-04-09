@@ -12,6 +12,6 @@
 </picture>
 
 [![My Twitter](https://img.shields.io/badge/DarshAyde-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DarshAyde)
-[![My LinkedIn](https://img.shields.io/badge/darsh-ayde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-ayde)
+[![My LinkedIn](https://img.shields.io/badge/darshayde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-ayde)
 [![My Email](https://img.shields.io/badge/darshayde@gmail.com-dc2626?logo=gmail&style=for-the-badge&logoColor=white)](mailto:darshayde@gmail.com)
 [![Buy me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/darsh.ayde)
