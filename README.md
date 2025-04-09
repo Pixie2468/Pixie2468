@@ -1,6 +1,3 @@
-[![Banner](https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f)]([https://github.com/Pixie2468])
-
-
 <h2 align="center" />
   
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,go,anaconda,tailwind,nodejs,postgres,arch,docker,git,python,fastapi,pytorch,bash,django,kali&perline=8)
