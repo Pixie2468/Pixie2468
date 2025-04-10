@@ -1,6 +1,6 @@
 <h2 align="center" />
   
-![My Skills](https://skillicons.dev/icons?i=c,cpp,go,anaconda,tailwind,nodejs,postgres,arch,docker,git,python,fastapi,pytorch,bash,django,kali,tensorflow,sklearn,linux,debian,vim,selenium,mysql,java,go&perline=8)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,go,anaconda,tailwind,nodejs,postgres,arch,docker,git,python,fastapi,pytorch,bash,django,kali,tensorflow,sklearn,linux,debian,vim,selenium,mysql,go&perline=8)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pixie2468&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs&rank_icon=github">
