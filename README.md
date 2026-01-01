@@ -2,31 +2,31 @@
 
 ### A passionate Python developer
 
-- I'm currently working on **
+🔭 I’m currently working on  
 - Backend & ML systems (Go, Python, Redis, Docker)  
-- Modular ML pipelines and MLOps tooling  **
+- Modular ML pipelines and MLOps tooling  
 
-- I'm currently learning **
-- MLOps  
-- Distributed systems  **
-
-- I'm looking to collaborate on **
+👯 I’m looking to collaborate on  
 - MLOps & GenAI projects  
-- Backend / systems engineering  **
+- Backend / systems engineering  
 
-- I'm looking for help with **
+🤝 I’m looking for help with  
 - Scaling ML systems in production  
-- LLM evaluation & deployment  **
+- LLM evaluation & deployment  
 
-- Ask me about **
+🌱 I’m currently learning  
+- MLOps  
+- Distributed systems  
+
+💬 Ask me about  
 - Go, Python  
 - Redis, WebSockets  
-- ML pipelines  **
+- ML pipelines  
+
+⚡ Fun fact  
+- I design systems so models can change without breaking architecture
 
 - How to reach me **darshayde@gmail.com**
-
-- Fun fact **
-- I design systems so models can change without breaking architecture**
 
 - All of my projects are available at **[darshayde.com](https://darshayde.com)**
 
